@@ -3,7 +3,4 @@
 # 打造班级IP，向世界展开领域！
 # know more on QQ：1123005708
 
-<style type="text/css">
-    body{
-	    background: url("[图片地址](http://sck4zdel1.hn-bkt.clouddn.com/%E5%9B%BE%E5%BA%8A/%E9%9B%A8%E4%BC%9E%E5%A5%B3%E5%AD%A9.jpg)");             
-	}
+
